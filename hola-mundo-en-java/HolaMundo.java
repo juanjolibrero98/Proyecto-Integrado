@@ -1,8 +1,9 @@
 public class HolaMundo {
     public static void main(String[] args) {
-        
-        System.out.println("Introduzca la altura de los calcetines");
-        System.out.println("Introduzca la altura de los zapatos");
+        String naranja = "\033[33m";
+        String azul="\033[34m";
+        System.out.println(naranja+"Hola mundo");
+        System.out.println(azul+"Ampliacion ejercicio hola mundo");
         
 
 
